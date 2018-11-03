@@ -25,11 +25,16 @@ Below is the step by step process followed for building and implementation of Cl
 8) Experiment Pocket algorithm, QDA, LDA, Logistic regression on Classification data.
 
       a) Preparing data, Dividing data into train set and test set
+      
       b) Training model on train data
+      
       c) Applying on train data 
+      
       d) Applying on test data
+      
       e) Evaluation metrics confusion matrix, precision, recall, specificity, roc auc score, accuracy, f1 score   
          are calculated
+      
       f) Plots for results
       
 9) Classification model comparision
